@@ -1,0 +1,49 @@
+header li {
+	list-style: none;
+
+}
+a:link, a:visited{
+	text-decoration: none;
+	background-color: skyblue;
+	border: 1px solid green;
+	color: black;
+	display: block;
+	width: 200px;
+	text-align: center;
+	margin-bottom: 2px;
+
+}
+h1{
+	text-align: center;
+	color: skyblue;
+}
+a:hover, a:active{
+	background-color: blue;
+	color:black;
+	font-size: 24px;
+	font-style: italic;
+}
+body{ 
+	
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: helvetica;
+	text-align: center;
+
+}
+
+h2{
+	text-align: center;
+	color: skyblue;
+}
+*{
+	box-sizing: border-box;
+}
+p{
+	width: 50%;
+	float: left;
+	padding: 10px;
+}
+section{
+	clear: left;
+}
