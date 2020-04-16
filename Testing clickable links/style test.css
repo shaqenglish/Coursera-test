@@ -1,0 +1,44 @@
+li {
+	list-style: none;
+
+}
+a.menu:link, a.menu:visited{
+	text-decoration: none;
+	background-color: skyblue;
+	border: 1px solid green;
+	color: black;
+	display: block;
+	width: 200px;
+	text-align: center;
+	margin-bottom: 2px;
+
+}
+h1{
+	text-align: center;
+	color: skyblue;
+}
+a.menu:hover, a.menu:active{
+	background-color: blue;
+	color:red;
+	font-size: 24px;
+	font-style: italic;
+}
+a.back:link, a.back:visited{
+	text-decoration: none;
+	background-color: none;
+	color: black;
+	display: block;
+	width: 200px;
+	text-align: center;
+	margin-bottom: 2px;
+}
+p {
+	text-align: center;
+	display: block;
+}
+a.back:hover, a.back:active{
+	background-color: none;
+	color:red;
+	font-size: 19px;
+	font-style: italic;
+}
