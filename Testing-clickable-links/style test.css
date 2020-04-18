@@ -10,7 +10,7 @@ a.menu:link, a.menu:visited{
 	display: block;
 	width: 200px;
 	text-align: center;
-	margin-bottom: 2px;
+	margin-bottom: 3px;
 
 }
 h1{
@@ -24,7 +24,7 @@ a.menu:hover, a.menu:active{
 	font-style: italic;
 }
 a.back:link, a.back:visited{
-	text-decoration: none;
+	text-decoration: underline;
 	background-color: none;
 	color: black;
 	display: block;
@@ -39,6 +39,6 @@ p {
 a.back:hover, a.back:active{
 	background-color: none;
 	color:red;
-	font-size: 19px;
+	font-size: 17px;
 	font-style: italic;
 }
